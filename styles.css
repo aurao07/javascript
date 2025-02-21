@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(118, 91, 120);
+}
+h1 {
+    background-color: rgb(255, 255, 255);
+    font-size: 50px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+p{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    white-space: pre-line;
+}

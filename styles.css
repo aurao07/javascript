@@ -15,7 +15,7 @@ p{
     font-family: 'Roboto', sans-serif;
     white-space: pre-line;
 }
-#joke {
+#Jokes {
     border: 5px solid rgb(16, 29, 55);
     background-color: rgb(118, 125, 158);
     display: flex;
@@ -33,7 +33,7 @@ h2, h3 {
     font-size: x-large;
 }
 #poem {
-    border: 5px solid chocolate;
+    border: 5px solid brown;
     background-color: beige;
     display: flex;
     flex-direction: column;
@@ -41,5 +41,5 @@ h2, h3 {
     align-items: center;
     width: 50%;
     margin: 0 auto;
-    color: bisque;
+    color: brown;
 }
